@@ -1,0 +1,10 @@
+{
+  "registry.terraform.io/hashicorp/template": {
+    "hash": "h1:a61DkglpoCGihJWQDBO0wJovPKXm9K6GLau2l+Q6EdA=",
+    "version": "2.1.2"
+  },
+  "registry.terraform.io/newrelic/newrelic": {
+    "hash": "h1:iZmXQwgyWe0m1VtUlTEI8pZigrW7eMnjYMOQ8INr+yw=",
+    "version": "2.7.0"
+  }
+}
