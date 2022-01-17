@@ -3,35 +3,35 @@ variable "monitors" {
   type        = map
   default     = {
     url1 = {
-      name = "xxl",
+      name = "url1",
       template = "scriptapi.tpl",
       url = "https://",
       locations = "AWS_EU_WEST_1",
       status = "ENABLED"
     },
     url2 = {
-      name = "xxl",
+      name = "url2",
       template = "scriptapi.tpl",
       url = "https://",
       locations = "AWS_EU_WEST_1",
       status = "ENABLED"
     },
     url3 = {
-      name = "xxl",
+      name = "url3",
       template = "scriptapi.tpl",
       url = "https://",
       locations = "AWS_EU_WEST_1",
       status = "ENABLED"
     },
     url4 = {
-      name = "xxl",
+      name = "url4",
       template = "scriptapi.tpl",
       url = "https://",
       locations = "AWS_EU_WEST_1",
       status = "ENABLED"
     },
     url5 = {
-      name = "xxl",
+      name = "url5",
       template = "scriptapi.tpl",
       url = "https://",
       locations = "AWS_EU_WEST_1",
